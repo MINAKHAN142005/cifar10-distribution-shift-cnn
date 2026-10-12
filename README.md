@@ -53,7 +53,7 @@ The shifted test set combines several corruptions at once:
 ## Getting Started
 
 ```bash
-git clone https://github.com/usman-dilbar/cifar10-distribution-shift-cnn.git
+git clone https://github.com/minakhan142005/cifar10-distribution-shift-cnn.git
 cd cifar10-distribution-shift-cnn
 pip install -r requirements.txt
 ```
